@@ -1,0 +1,7 @@
+~;container:start; container:reload /
+clean
+compile
+~;container:start; container:reload /
+update
+q
+update
